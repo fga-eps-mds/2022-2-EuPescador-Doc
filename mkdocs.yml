@@ -1,6 +1,8 @@
 site_name: "2022-2-EuPescador-Doc"
 
 theme:
+  logo: assets/logo/logo.png
+  favicon: assets/logo/logo.png
   name: material
   language: "pt"
 
