@@ -17,3 +17,8 @@ markdown_extensions:
 
 nav:
   - Sobre: index.md
+  - Atas:
+    - Reunião com o time:
+      - Ata (10/11/2022): atas/reuniao-com-time/ata_10_11_22.md
+    - Reunião com o cliente:
+      - Ata (XX/XX/2022): atas/reuniao-com-cliente/ata_11_11_22.md
