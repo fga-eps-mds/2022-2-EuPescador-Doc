@@ -17,6 +17,10 @@ markdown_extensions:
 
 nav:
   - Sobre: index.md
+  - Organizacao:
+    - Quadro de Conhecimentos: organizacao/conhecimentos.md
+    - Comunicacao: organizacao/comunicacao.md
+    - Horarios: organizacao/horarios.md
   - Atas:
     - Reunião com o time:
       - Ata (10/11/2022): atas/reuniao-com-time/ata_10_11_22.md
