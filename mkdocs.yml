@@ -17,7 +17,9 @@ markdown_extensions:
 
 nav:
   - Sobre: index.md
-  - Organizacao:
+  - Produto:
+    - EAP: produto/eap.md
+  - Gestão da equipe:
     - Quadro de Conhecimentos: organizacao/conhecimentos.md
     - Comunicacao: organizacao/comunicacao.md
     - Horarios: organizacao/horarios.md
