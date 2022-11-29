@@ -6,12 +6,15 @@ A identidade visual é o conjunto de todas as formas visuais que irão fazer par
 ## Logotipo
 Foram criados 4 modelos de logotipo mudando apenas as cores.
 
-![Modelos]: ../assets/logo/modelosLogo.jpg
+![Logo][1]
+
+[1]: ../assets/logo/modelosLogo.jpg
 
 Por hora, utilizaremos o logotipo de número 4, já validado em reunião com o cliente.
 
-![Logo]: ../assets/logo/logoNova.jpg
+![Logo][2]
 
+[2]: ../assets/logo/logoNova.jpg
 
 ## Versionamento
 
