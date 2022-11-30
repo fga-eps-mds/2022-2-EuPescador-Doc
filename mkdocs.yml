@@ -1,8 +1,8 @@
 site_name: "2022-2-EuPescador-Doc"
 
 theme:
-  logo: assets/logo/logo.png
-  favicon: assets/logo/logo.png
+  logo: assets/logo/logoNova.jpg
+  favicon: assets/logo/logoNova.jpg
   name: material
   language: "pt"
 
@@ -19,6 +19,7 @@ nav:
   - Sobre: index.md
   - Produto:
     - EAP: produto/eap.md
+    - Identidade Visual: produto/identidade_visual.md
   - Gestão da equipe:
     - Quadro de Conhecimentos: organizacao/conhecimentos.md
     - Comunicacao: organizacao/comunicacao.md
