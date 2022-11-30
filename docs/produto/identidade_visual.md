@@ -8,16 +8,18 @@ Foram criados 4 modelos de logotipo mudando apenas as cores.
 
 ![Logo][1]
 
-[1]: ../assets/logo/modelosLogo.jpg
+[1]: ../assets/logo/modelosLogo.png
 
 Por hora, utilizaremos o logotipo de número 4, já validado em reunião com o cliente.
 
 ![Logo][2]
 
-[2]: ../assets/logo/logoNova.jpg
+[2]: ../assets/logo/logoNova.png
 
 ## Versionamento
 
 |    Data    | Versão |      Descrição       |                                                               Autor                                                               |
 | :--------: | :----: | :------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
 | 28/11/2022 |  1.0   | Criação do documento | [Eduarda](https://github.com/ServidioEC) |
+| 30/11/2022 |  1.1   | Correção no formato das imagens | [Eduarda](https://github.com/ServidioEC) |
+
