@@ -1,8 +1,8 @@
 site_name: "2022-2-EuPescador-Doc"
 
 theme:
-  logo: assets/logo/logoNova.jpg
-  favicon: assets/logo/logoNova.jpg
+  logo: assets/logo/logoNova.png
+  favicon: assets/logo/logoNova.png
   name: material
   language: "pt"
 
