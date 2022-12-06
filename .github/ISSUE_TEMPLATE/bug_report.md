@@ -20,6 +20,9 @@ Etapas para reproduzir o comportamento:
 **Comportamento esperado**
 Uma descrição clara e concisa do que você esperava que acontecesse.
 
+**Tarefas**
+- [] Descrever a tarefa para a issue
+
 **Screenshots**
 Se aplicável, adicione capturas de tela para ajudar a explicar seu problema.
 

@@ -15,7 +15,6 @@ Este repositório tem o propósito de armazenar a documentação do projeto Eu P
 | ![Gabriel](assets/equipe/gabriel.jpg) | MDS | Gabriel Ferreira | [oo7gabriel](https://github.com/oo7gabriel) |gabrielfsacademico@gmail.com|
 | ![Gustavo](assets/equipe/gustavo.jpg) | MDS | Gustavo Barbosa| [brbsg](https://github.com/brbsg)| gustavobarbosa7162@gmail.com |
 | ![Joao](assets/equipe/joao.jpg) | EPS | Joao Gabriel  | [flyerjohn](https://github.com/flyerjohn)| jg.antunes.medeiros@gmail.com |
-| ![Juan](assets/equipe/juan.jpg) | MDS | Juan Jose  | [cerqueirajuan](https://github.com/cerqueirajuan)| eng.juancerqueira@gmail.com |
 | ![Lucas](assets/equipe/lucas.jpg) | MDS | Lucas Rodrigues | [lucascard](https://github.com/lucascard) | cardosolucasrodrigues@gmail.com |
 | ![Marcelo](assets/equipe/marcelo.jpg) | MDS | Marcelo Victor| [marcelog5](https://github.com/marcelog5)| marcelovictorg2@gmail.com |
 | ![Thiago](assets/equipe/thiago.jpg) | EPS | Thiago Guilherme | [ThiagoGMF](https://github.com/ThiagoGMF) | 180028308@aluno.unb.br |
