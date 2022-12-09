@@ -25,6 +25,7 @@ nav:
     - Comunicacao: organizacao/comunicacao.md
     - Horarios: organizacao/horarios.md
     - Gerenciamento de Riscos: organizacao/riscos.md
+    - Gerenciamento de Custos: organizacao/custos.md
   - Políticas:
     - Código de conduta: politicas/CODE_OF_CONDUCT.md
     - Como contribuir: politicas/CONTRIBUTING.md
