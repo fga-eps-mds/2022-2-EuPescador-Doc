@@ -13,4 +13,4 @@ Quando é desenvolvida uma EAP, o gerente do projeto estabelece as fases princip
 
 |    Data    | Versão |      Descrição       |                                                               Autor                                                               |
 | :--------: | :----: | :------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
-| 27/11/2022 |  1.0   | Criação do documento | [Emily Dias](https://github.com/emysdias), [Gabriel Antunes](https://github.com/flyerjohn) e [Weslley](assets/equipe/weslley.jpg) |
+| 27/11/2022 |  1.0   | Criação do documento | [Emily Dias](https://github.com/emysdias), [Gabriel Antunes](https://github.com/flyerjohn) e [Weslley](https://github.com/weslley17w) |
