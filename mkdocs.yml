@@ -32,6 +32,8 @@ nav:
   - Políticas:
     - Código de conduta: politicas/CODE_OF_CONDUCT.md
     - Como contribuir: politicas/CONTRIBUTING.md
+  - Sprints:
+    - Sprint 1: sprints/sprint-1.md
   - Atas:
     - Reunião com o time:
       - Ata (10/11/2022): atas/reuniao-com-time/ata_10_11_22.md
