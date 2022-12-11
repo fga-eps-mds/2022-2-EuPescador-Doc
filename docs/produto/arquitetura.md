@@ -57,9 +57,9 @@ Onde tem a aplicação web e mobile. O web fica com a total gerência do projeto
 
 ## Referências
 
-Documento de Arquitetura. Eu_Pescador. Disponível em: [documento de arquitetura 2021.2](https://fga-eps-mds.github.io/2021-2-Eu_Pescador-Doc/#/Product/ArchitectureDocument). Acesso em: 10 dez. 2022.
+> Documento de Arquitetura. Eu_Pescador. Disponível em: [documento de arquitetura 2021.2](https://fga-eps-mds.github.io/2021-2-Eu_Pescador-Doc/#/Product/ArchitectureDocument). Acesso em: 10 dez. 2022.
 
-Definições Arquiteturais. Disponível em: [documento de arquitetura 2022.1](https://fga-eps-mds.github.io/2022-1-EuPescador-Doc/docs/produto/documento-arquitetura/). Acesso em: 10 dez. 2022.
+> Definições Arquiteturais. Disponível em: [documento de arquitetura 2022.1](https://fga-eps-mds.github.io/2022-1-EuPescador-Doc/docs/produto/documento-arquitetura/). Acesso em: 10 dez. 2022.
 
 ## Versionamento
 

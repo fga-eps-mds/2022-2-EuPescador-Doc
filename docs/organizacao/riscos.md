@@ -6,7 +6,7 @@ O gerenciamento dos riscos é um documento que busca documentar os processos de 
 
 ## Estrutura Analítica de Riscos (EAR)
 
-![Estrutura Analítica de Riscos (EAR)](/assets/docs/EAR.png)
+![Estrutura Analítica de Riscos (EAR)](../assets/docs/EAR.png)
 
 [Link para o diagrama](https://unbbr-my.sharepoint.com/:u:/g/personal/180029223_aluno_unb_br/EQdIWTerrblJlWDbvDAi3a0ByID4gRz6QjfwUURTOQP-YA?e=MaUcHD)
 
