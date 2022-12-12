@@ -109,6 +109,10 @@ Este é um quadro visual que auxilia a alinhar e defnir a estratégia do MVP. Ap
 [17]: ../assets/produto/lean-inception/mvp.png "Clique para ampliar"
 [18]: ../assets/produto/lean-inception/mvp.png
 
+## Lean Inception
+
+Para visualizar o mural completo acesse o [Link](https://app.mural.co/t/unbfgaepsmds202111846/m/unbfgaepsmds202111846/1667845146212/6bfcab2a789eb34cd40fc21cf15e55833ccc264c?invited=true&sender=ubaea5ce88b52add004e90794).
+
 ## Referências
 
 > MJV Team. Lean inception: conheça a metodologia por trás de um MVP de sucesso. Disponível em [Link](https://www.mjvinnovation.com/pt-br/blog/lean-inception/). Acesso em: 11 dez. 2022.
