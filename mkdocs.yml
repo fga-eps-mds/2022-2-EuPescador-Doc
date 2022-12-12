@@ -20,6 +20,7 @@ nav:
   - Produto:
     - EAP: produto/eap.md
     - Identidade Visual: produto/identidade_visual.md
+    - Documento de Visão: produto/visao.md
     - Documento de Arquitetura: produto/arquitetura.md
     - Backlog do produto: produto/backlog.md
     - Protótipos: produto/prototipos.md
