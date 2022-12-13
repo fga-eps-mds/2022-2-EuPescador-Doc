@@ -31,6 +31,7 @@ nav:
     - Horarios: organizacao/horarios.md
     - Gerenciamento de Riscos: organizacao/riscos.md
     - Gerenciamento de Custos: organizacao/custos.md
+    - Gráfico de Gantt: organizacao/grafico-de-gantt.md
   - Políticas:
     - Código de conduta: politicas/CODE_OF_CONDUCT.md
     - Como contribuir: politicas/CONTRIBUTING.md
