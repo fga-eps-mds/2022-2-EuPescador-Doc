@@ -58,7 +58,7 @@ Onde tem a aplicação web e mobile. O web fica com a total gerência do projeto
 ## Restrições Arquiteturais
 
 ### Escalabilidade
-<!-- Atualmente temos uma restrição na versão mobile, onde todas as imagens do aplicativo carregam de uma vez, e como essas imagens são pesadas, acaba usando bastante a internet do usuário, e pesando também o banco de dados. -->
+Atualmente temos uma restrição na versão mobile, onde todas as imagens do aplicativo carregam de uma vez, e como essas imagens são pesadas, acaba usando bastante a internet do usuário, e pesando também o banco de dados. A solução que encontramos foi paginar o banco de dados e ir mostrando as imagens no aplicativo conforme o pescador for dando o scroll, para não carregar as imagens de uma vez ao abrir a aplicação.
 
 ### Segurança
 Como é um aplicativo sobre pesca, onde o pescador coloca dados sobre o peixe, sua localização e suas características, a preocupação da aplicação é não mostrar a localização exata, para evitar o aumento de caças e a extinção das expécies. Por tanto, o sistema alterada a localização das espécies alguns metros para evitar que isso ocorra.
