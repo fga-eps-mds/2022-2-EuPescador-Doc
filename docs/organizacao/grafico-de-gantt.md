@@ -17,3 +17,4 @@ O Gráfico de Gantt é uma ferramenta visual para controlar o cronograma de um p
 |    Data    | Versão |       Descrição       |                  Autor                   |
 | :--------: | :----: | :-------------------: | :--------------------------------------: |
 | 11/12/2022 |  1.0   | Criação do documento  |  [João Gabriel](https://github.com/flyerjohn)|
+| 10/01/2022 |  1.1   | Atualização com as datas corretas do documento  |  [João Gabriel](https://github.com/flyerjohn)|
