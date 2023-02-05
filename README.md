@@ -34,13 +34,12 @@ Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuiç
 
 ## Ambientes
 
-- [User](https://github.com/fga-eps-mds/2022.2-EuPescador-User)
 - [Doc](https://github.com/fga-eps-mds/2022-2-EuPescador-Doc)
-- [Mobile](https://github.com/fga-eps-mds/2022.2-EuPescador-Mobile)
-- [Web](https://github.com/fga-eps-mds/2022-2-EuPescador-Web)
 - [Fish Log](https://github.com/fga-eps-mds/2022.2-EuPescador-FishLog)
 - [Fish Wiki](https://github.com/fga-eps-mds/2022.2-EuPescador-FishWiki)
-- [User Interface](https://github.com/fga-eps-mds/2022.2-EuPescador-UserInterface)
+- [User](https://github.com/fga-eps-mds/2022.2-EuPescador-User)
+- [Web](https://github.com/fga-eps-mds/2022-2-EuPescador-Web)
+- [Mobile](https://github.com/fga-eps-mds/2022.2-EuPescador-Mobile)
 
 ## Integrantes
 
@@ -58,7 +57,7 @@ Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuiç
 | MDS        | 180042041 | [Gustavo Barbosa](https://github.com/brbsg)             | gustavobarbosa7162@gmail.com    |
 | MDS        | 200059211 | [Lucas Rodrigues](https://github.com/lucascard)         | cardosolucasrodrigues@gmail.com |
 | MDS        | 180132725 | [Wallyson Andre](https://github.com/wallyson97)         | wallysonandre22@gmail.com       |
-| MDS        | 200044567 | [Weslley Alves](https://github.com/weslley17w)          | weslley17w@gmail.com            |
+| MDS        | 200044567 | [Weslley Barros](https://github.com/weslley17w)         | weslley17w@gmail.com            |
 
 ## Link da Wiki
 
