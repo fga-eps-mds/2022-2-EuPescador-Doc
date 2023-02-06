@@ -1,7 +1,6 @@
 # Gerenciamento de Custos
 
-O gerenciamento de custo é uma atividade de planejamento de um projeo que visa calcular os gastos sobre diferentes óticas do produto. Dessa maneira O gerenciamento dos custos do projeto inclui os processos envolvidos em planejamento, estimativas,
-orçamentos, financiamentos, gerenciamento e controle dos custos, de modo que o projeto possa ser terminado
+O gerenciamento de custo é uma atividade de planejamento de um projeo que visa calcular os gastos sobre diferentes óticas do produto. Dessa maneira O gerenciamento dos custos do projeto inclui os processos envolvidos em planejamento, estimativas, orçamentos, financiamentos, gerenciamento e controle dos custos, de modo que o projeto possa ser terminado
 dentro do orçamento aprovado.
 
 Para a realização dos cálculos aqui presentes foi utilizado dados reais que podem ser acessados ao fim e ao longo desse documento.
@@ -27,8 +26,16 @@ Além disso, para a publicação do aplicativo na Playstore do celulares Android
 
 ### Custo de Equipe
 
-Segundo o [Jornal da USP](https://jornal.usp.br/artigos/a-cobranca-de-mensalidades-nas-universidades-publicas/) um aluno de uma universidade pública custa em média R$ 40.900 ao ano para os cofres públicos. Dessa forma, para sabermos o valor semanal de um aluno de uma universidade pública podemos calcular da seguinte maneira:
-> ```Valor de um aluno universitário anualmente/(12*4)``` = ```R$ 852,00```
+Segundo um [artigo](https://www.scielo.br/j/es/a/3SxH5sZPhCxRKc5KBqyNZvd/#) que calculou o valor de um aluno universitário para os cofres públicos, um aluno de uma universidade pública custa em média R$ 19.766,00 ao ano para os cofres públicos. Dessa forma, para sabermos o valor semanal de um aluno de uma universidade pública podemos calcular da seguinte maneira:
+> ```Valor de um aluno universitário anualmente/(12*4)``` = ```R$ 411,79``` = ``` Valor semanal de um aluno```
+
+Mas como um aluno da universidade não faz apenas uma disciplina devemos também fazer um cálculo para saber o valor de uma matéria. Sabendo que para se formar no curso de software são necessário 232 créditos e que o tempo mínimo de formação é de 10 semestres, podemos calcular que em média o aluno faz 24 créditos por semestre. Dessa maneira, supondo que em todas as matérias existe a mesma verba, temos que a disciplina de Engenharia de Produto de software dispõe da seguinte quantidade dos recursos.
+
+> ```Quantidade da créditos da disciplina * Valor semanal de um aluno / Quantidade de créditos em média``` = ```~R$ 68,50```
+
+Por fim o custo da equipe por sprint pode ser dado por:
+
+> ```68,50 * Tamanho da equipe```
 
 ### Custos Extras
 
@@ -68,8 +75,7 @@ Estas estimativas serão realizadas em cada planejamento semanal, e poderão ser
 
 > PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.
 
-> A cobrança de mensalidades nas universidades públicas. Jornal da USP. 17 abr, 2020. Acessado em: 08 Dez, 2022 Disponível em: 
-https://jornal.usp.br/artigos/a-cobranca-de-mensalidades-nas-universidades-publicas/
+> Bielschowsky, Carlos Eduardo, and Nelson Cardoso Amaral. "O CUSTO DO ALUNO DAS 2.537 INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR BRASILEIRAS: CAI UM MITO?." Educação & Sociedade 43 (2022).
 
 > Estagiário em Desenvolvimento de Software. Vagas. Acessado em: 08 Dez, 2022 Disponível em: https://www.vagas.com.br/cargo/estagiario-em-desenvolvimento-de-software
 
@@ -80,3 +86,4 @@ https://jornal.usp.br/artigos/a-cobranca-de-mensalidades-nas-universidades-publi
 |    Data    | Versão |       Descrição       |                  Autor                   |
 | :--------: | :----: | :-------------------: | :--------------------------------------: |
 | 08/12/2022 |  1.0   | Criação do documento  |  [Washington](https://github.com/WashingtonBispo)|
+| 05/02/2023 |  1.1   | Alterando cálculo dos custos  |  [Washington](https://github.com/WashingtonBispo)|
